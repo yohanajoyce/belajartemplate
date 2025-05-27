@@ -1,0 +1,14 @@
+.navbar-brand img{
+    width: 150px;
+    height: auto !important;
+}
+header.masthead {
+    background-image: url(../assets/img/gedungidb.png);
+}
+header.masthead::after{
+    background-color: black;
+    opacity: 0.7;
+    position: absolute;
+    height: 100%;
+
+}
