@@ -12,3 +12,16 @@ header.masthead::after{
     height: 100%;
 
 }
+.text-primary{
+    color: #024d71 !important   ;
+}
+.portfolio-item img{
+    height: 300px;
+    object-fit: cover;
+}
+.timeline-image img{
+  width: 2000px;
+  height: 157px;
+  border-radius: 50%;
+    object-fit: cover;
+}
